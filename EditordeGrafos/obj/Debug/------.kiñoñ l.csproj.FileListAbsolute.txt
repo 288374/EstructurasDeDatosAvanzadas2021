@@ -1,0 +1,54 @@
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\------.kiñoñ l.csprojAssemblyReference.cache
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.AtributosGrafo.resources
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.Editor.resources
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.ConfigNodAri.resources
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.muestramatriz.resources
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.Properties.Resources.resources
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.TipoGrafos.resources
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\------.kiñoñ l.csproj.GenerateResource.cache
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\------.kiñoñ l.csproj.CoreCompileInputs.cache
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\Editor De Grafos.exe
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\Editor De Grafos.pdb
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\bin\Debug\Editor De Grafos.exe.config
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\bin\Debug\Editor De Grafos.exe
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\bin\Debug\Editor De Grafos.pdb
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.GradoGrafos.resources
+C:\Users\Martinez Perlita\Desktop\Grafos_2020-20200904T034327Z-001\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.DFS.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\bin\Debug\Editor De Grafos.exe.config
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\bin\Debug\Editor De Grafos.exe
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\bin\Debug\Editor De Grafos.pdb
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\------.kiñoñ l.csprojAssemblyReference.cache
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.AtributosGrafo.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.BFS.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.DFS.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.Editor.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.ConfigNodAri.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.GradoGrafos.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.muestramatriz.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.Properties.Resources.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.TipoGrafos.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\------.kiñoñ l.csproj.GenerateResource.cache
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\------.kiñoñ l.csproj.CoreCompileInputs.cache
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\Editor De Grafos.exe
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\Editor De Grafos.pdb
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.BosqueAbarcador.resources
+C:\Users\Martinez Perlita\Desktop\EAvanzadas2021\Grafos_2020\EditordeGrafos\obj\Debug\EditordeGrafos.Dijkstra.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\bin\Debug\Editor De Grafos.exe.config
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\bin\Debug\Editor De Grafos.exe
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\bin\Debug\Editor De Grafos.pdb
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\------.kiñoñ l.csprojAssemblyReference.cache
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.AtributosGrafo.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.BFS.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.BosqueAbarcador.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.DFS.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.Dijkstra.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.Editor.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.ConfigNodAri.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.GradoGrafos.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.muestramatriz.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.Properties.Resources.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\EditordeGrafos.TipoGrafos.resources
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\------.kiñoñ l.csproj.GenerateResource.cache
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\------.kiñoñ l.csproj.CoreCompileInputs.cache
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\Editor De Grafos.exe
+C:\Users\Martinez Perlita\Desktop\Avance_EDA_Martinez_Perlita\Grafos_2021\EditordeGrafos\obj\Debug\Editor De Grafos.pdb

@@ -1,0 +1,130 @@
+Fecha 08/Septiembre/2020
+Alumna: Perlita Martinez Contreras
+
+    Avance: Mostrar matriz de relacion en un nuevo Forms 
+Rev.
+	Falta el GridCtrl para la matriz relación.
+	Falta agregar el control ToolStrip y agregar la opción de la matriz M.
+	Hay que leer la estructura del grafo recorriendo los nodos y aristas
+		para extraer la información para llenar el  GridCtrl.
+	No entregar humo y trabajar en orden:
+		
+		1.- Diseñar la interfaz: 1 hr
+		2.- Controladores: 1 hr.
+		3.- Recorrer el grafo y extraer la info: 2 hr.
+		4.- imprimir en el control Grid: 1 hr. 
+		tiempos máx = 5 hrs.
+
+	Aún no.
+----------------------------------------------------------
+Fecha  10/Septiembre/2020
+Avance: 
+	Matriz de relacion dentro de DataGridView 
+Rev.
+	-La matriz no esta correcta, ya que el grafo es No Dirigido.
+		si existe relación de A-B debe de haber B-A. 
+		Primera clase de Grafos llamada tipos de grafos.
+	-La Barra de Herramientas o ToolStrip es vertical a la izquierda.
+		Hay que arreglarla.
+	-Ya no aparece la ventana de Configuración que le hiciste?
+
+	Ahí la llevas pero se requiere aún mas o sea terminar eso y iniciar lo demas
+		para poder entregar lo mas pronto posible.
+----------------------------------------------------------
+Fecha: 15/Septiembre/2020
+Avance: 
+           1- Correcion del toolstrips para que sea vertical. 				OK
+           2- Correcion de la matriz. 							OK
+           3- Ventana de configuracion sigue apareciendo. 				OK
+           4- Punto numero 1 del avance realizado. 
+                 Hacer que las letras se conviertan en numero atraves de un boton 
+                 dentro de la ventana de cpnfiguracion.					+/-
+
+Rev.
+	Aún le falta al punto 4. Debe de actualizar en el esquema de Configuración:
+	El nombre del nodo que está con A debe de cambiar a 1.
+	Porque pido eso? Porque tambien debe funcionar de regreso: Si está ya con número, lo
+	al entrar a Configuración lo debe relejar en el esquema y si lo cambiamos ahora a letra
+	lo debe reflejar allí en el esquema y al dar Aceptar cambiarlo en el esquema del grafo actual,
+	así como en la estructura de datos.
+
+	Cuando termines eso, de una vez agregas la opción de L/N en la barra de Herramientas principal
+	despues de la Configuración. Para cambiarlo de afuera, y obvio cambiara como si fuera por
+	dentro de la Configuración.
+-----------------------------------------------------------------------------------------------------------
+Fecha 16/Septiembre/2020
+Avance: 
+       1- Se utiliza dos CheckBoxs para cambiar de letra a numero y numero a letra. 
+       2- Se añadio un boton al tolstrip para tener un acceso directo al cambio de nombre. 
+            
+         *** Tiene un error por corregir, ya que se repiten las letras tantas veces se haga conversion de caracteres, ****
+         *** y le falta modificar el esquema, ahora solo se lo mando para que vea el avance un poco y no desespere. :c *****
+
+Rev.
+	*** La revisión no tiene ningún bug o inconsistencia eso es bueno:c ******
+
+	1.-De entrada hay que actualizar el checkBox de Letra que es la activa por default y reflejarla en el nodo 
+	del esquema.
+           Si se cambia a Número esa debe permanecer durante corrida pero al Eliminar el grafo se queda el 
+	   default así como también al leer un grafo se recupera la configuración que tiene y se actualiza. 
+
+	2.-Tambien al dar default se regresa al estado inicial de la Configuración para despues dar Aceptar 
+	y al salir el grafo actual no sufrira cambios. Así como funciona todo lo que esta allí, juega con eso.
+
+	3.-La Opción que agregaste al ToolStrip también debe agregarse a la opción de Configuración del MenuBar de tal 
+	manera que tendrá 2 opciones: La de "Configurar Nodo y Arista" y la de "Cambiar L/N".
+
+	4.-La opción de "Cambiar L/N" en el ToolStrip no requiere otra ventana, nop es funcional ni amigable. Para esto 
+	se tiene que implementar solo el "switcheo" o toggle(0-1) y mantener su estado actual con una variable booleana. 
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Fecha 22/Septiembre/2020
+Avance:
+     1- Corregi los checksBocks para que esten activos dependiedo de que se selecione letra o numero, 
+        Tambien se refleja en el esquema un "1" o "A" dependiendo que se seleccione.
+     2- El punto numero 3 de la correcion no lo entendi muy bien, en la opcion "Cambiar L/N" le puse el forms completo de 
+        la configuracion, no se si hay que corregirlo. 
+     3- Me falta corregir el swuitcheo para eliminar la ventana que puse para esa opcion. 
+-----------------------------------------------------------------------------------------------------------------------
+Fecha 23/Septiembre/2020
+Avance:
+         3- Listo, la opcion "Cambiar L/N" ya lo corregi, al presionar el boton cambia inmediatamente entre letras y numeros. 
+Rev.
+	-Ya esta solo que debe de mostrarse el cambio dentro de Configuración. Al cambiar de uno a otro se debe reflejar en el
+	dibujo.
+	-Hay que agregar Tooltips a la opción L/N de la barra. 
+	-Al leer un grafo y querer aplicar la opción L/N no lo hace a la primera, se tiene que dar otro click.
+-------------------------------------------------------------------------------------------------------------------------------
+ Fecha 23/Septiembre/2020
+Avance: 
+        El tooltips ya se lo cambie, Y el cambio en el esquema ya estaba, ya hacia el cambio de dibujo segun fuera el caso.
+        Tambien el click que menciona lo probe y si me aparece que lo hace a la primera, si gusta volverlo a correr por favor
+        para verficar que todo este correcto. 
+--------------------------------------------------------------------------------------------------------------------------
+Fecha 30/Septiebre/2020
+Avance: 
+    1- Ya hice la parte de tipo de grafos, se realizo por medio de un DataGrid, espero este completo. 
+    2-  lo unico que me falta aun es checar el prunto de: "Al leer un grafo y querer aplicar la opción L/N no lo hace a la primera,
+       " se tiene que dar otro click.
+---------------------------------------------------------------------------------------------------------------------------------------
+Fecha: 06/Octubre/2020
+Avance: Ya le corregi los detalles al editor. El esquema ya no se traba, hace el cambio de letra - numero en un grafo abierto 
+al primer clik. 
+---------------------------------------------------------------------------------------------------------------------------------------
+ 
+
+Fecha: 19/02/2021 
+Avance: Busqueda en profundidad implementada. 
+-------------------------------------------------------------------------------------------------------------------------------------------
+Fecha: 24/02/2021
+Avance: Busqueda en amplitud implementada  
+-------------------------------------------------------------------------------------------------------------------------------------------
+Fecha:27/02/2020
+Avance: 
+Busquedas corregidas 	 
+------------------------------------------------------------------------------------------------------------------------
+Fecha: 09/03/2021
+Avance:
+-Correcion de Bosque Abarcador 
+-Implementacion de Dijktra (Esta fallando) :( 
