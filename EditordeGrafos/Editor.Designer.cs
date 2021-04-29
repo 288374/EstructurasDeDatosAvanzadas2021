@@ -114,6 +114,7 @@
             this.toolStripButton8 = new System.Windows.Forms.ToolStripButton();
             this.Euler = new System.Windows.Forms.ToolStripButton();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.toolStripButton9 = new System.Windows.Forms.ToolStripButton();
             this.menuStripMenuGeneral.SuspendLayout();
             this.toolStripMenuIcono.SuspendLayout();
             this.MenuArista.SuspendLayout();
@@ -708,6 +709,7 @@
             // 
             // toolStripTextBox1
             // 
+            this.toolStripTextBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.toolStripTextBox1.Name = "toolStripTextBox1";
             this.toolStripTextBox1.Size = new System.Drawing.Size(100, 23);
             // 
@@ -731,10 +733,11 @@
             this.toolStripButton7,
             this.BusqueAbarcador,
             this.toolStripButton8,
-            this.Euler});
+            this.Euler,
+            this.toolStripButton9});
             this.toolStrip1.Location = new System.Drawing.Point(0, 63);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(32, 430);
+            this.toolStrip1.Size = new System.Drawing.Size(24, 430);
             this.toolStrip1.TabIndex = 3;
             this.toolStrip1.Text = "toolStrip1";
             this.toolStrip1.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical90;
@@ -793,7 +796,7 @@
             this.toolStripButton6.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton6.Name = "toolStripButton6";
             this.toolStripButton6.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.toolStripButton6.Size = new System.Drawing.Size(29, 31);
+            this.toolStripButton6.Size = new System.Drawing.Size(21, 31);
             this.toolStripButton6.Text = "DFS";
             this.toolStripButton6.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.toolStripButton6.ToolTipText = "Busqueda en Profundiad";
@@ -806,7 +809,7 @@
             this.toolStripButton7.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton7.Image")));
             this.toolStripButton7.ImageTransparentColor = System.Drawing.Color.DarkOrchid;
             this.toolStripButton7.Name = "toolStripButton7";
-            this.toolStripButton7.Size = new System.Drawing.Size(29, 30);
+            this.toolStripButton7.Size = new System.Drawing.Size(21, 30);
             this.toolStripButton7.Text = "BFS";
             this.toolStripButton7.ToolTipText = "Busqueda en Amplitud";
             this.toolStripButton7.Click += new System.EventHandler(this.toolStripButton7_Click);
@@ -842,6 +845,15 @@
             this.Euler.Size = new System.Drawing.Size(21, 20);
             this.Euler.Text = "toolStripButton9";
             this.Euler.Click += new System.EventHandler(this.Euler_Click);
+            // 
+            // toolStripButton9
+            // 
+            this.toolStripButton9.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripButton9.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton9.Image")));
+            this.toolStripButton9.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton9.Name = "toolStripButton9";
+            this.toolStripButton9.Size = new System.Drawing.Size(21, 102);
+            this.toolStripButton9.Text = "Simulacion Floyd";
             // 
             // Editor
             // 
@@ -964,6 +976,7 @@
         private System.Windows.Forms.ToolStripButton BusqueAbarcador;
         private System.Windows.Forms.ToolStripButton toolStripButton8;
         private System.Windows.Forms.ToolStripButton Euler;
+        private System.Windows.Forms.ToolStripButton toolStripButton9;
     }
 }
 

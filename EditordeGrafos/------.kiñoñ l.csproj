@@ -95,6 +95,12 @@
     <Compile Include="Euler.Designer.cs">
       <DependentUpon>Euler.cs</DependentUpon>
     </Compile>
+    <Compile Include="Floyd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Floyd.Designer.cs">
+      <DependentUpon>Floyd.cs</DependentUpon>
+    </Compile>
     <Compile Include="GradoGrafos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -138,6 +144,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ConfigNodAri.resx">
       <DependentUpon>ConfigNodAri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Floyd.resx">
+      <DependentUpon>Floyd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GradoGrafos.resx">
       <DependentUpon>GradoGrafos.cs</DependentUpon>
